@@ -1,0 +1,8 @@
+import java.util.Scanner:
+public class avgnum{
+    Scanner sc=new Scanner(System.in);
+    double a=sc.nextdouble();
+    double b=sc.nextdouble();
+    double c=sc.nextdouble();
+    system.out.println(a+b+c/3);
+}
